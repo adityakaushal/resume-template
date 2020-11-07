@@ -1,0 +1,30 @@
+- layout: left
+  company: Brillio
+  link: https://brillio.com/
+  job_title: Data Engineer
+  dates: September 2020 - Present
+  quote: >
+   Brillio is a Digital Consulting Company with a focus on buidling solution with Cloud, Big Data Analytics, and Product Engineering and Digital Infrastructure.
+  description: | # this will include new lines to allow paragraphs
+    Data Engineering and Warehousing , ETL and PowerBI Reporting.
+
+- layout: left
+  company: Aerogram - IIT Delhi Campus
+  link: https://aerogram.in/
+  job_title: Data Engineer Intern
+  dates: Jan 2020 - May 2020
+  quote: >
+   Aerograms builds cityscale air pollution monitors to track your personal exposure to pollution.
+  description: | # this will include new lines to allow paragraphs
+    Built a web dashboard to predict PM2.5 values using algorithms like Prophet, S-ARI-MA, and EMA. Developed ETL Pipelines on Google Cloud to migrate telemetry feed from IoT-Devices to Google Cloud SQL. Integrated the pipelines with MQTT protocols using Google Pub/Sub & IoT core. Analysed PM 2.5 of E-BAM and IIT-D during and before the lock down to determine the seasonality and trends.Technical Skills: Python, SQL, Pandas, NumPy, SciPy, Google Cloud, HTML, CSS, JS, Flask, ETL, Tableau
+    
+    
+- layout: left
+  company: Hitachi India
+  link: https://hitachi.com/
+  job_title: Data Analyst Intern
+  dates: Mar 2019 - Apr 2019
+  quote: >
+   Worked under Hitachi's Railway Systems Business Division.
+  description: | # this will include new lines to allow paragraphs
+    Built a solution for extracting the arrival & departure of Trains to compare NTES data with actual timings. Designed a solution to automate the processes of ETL using Python. Extracted raw Data with ScraPy. Converted the unstructured formats to Excel readable formats for data visualization through Pandas. Summarized the Data into visualization to compare the actual arrival and departure with NTES timings. Technical Skills: Python, ScraPy, Pandas, NumPy, Excel, Mat- plotlib, Sea-born. *NTES: National Train Enquiry System

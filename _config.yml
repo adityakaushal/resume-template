@@ -1,0 +1,63 @@
+# Site
+repository: adityakaushal/adityakausha.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Aditya Kaushal
+title: Data Engineer @ Brillio
+email: adityakaushal.india@gmail.com
+website: adityakaushal.github.io
+
+# Social links
+twitter_username: adityak_98
+github_username:  adityakaushal
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: adityak_98
+linkedin_username: adityakaushal98
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  An Engineering graduate in Computer Science and Engineering. Currently a Data Engineer who’s previously interned/worked at Hitachi as a Data Analyst Intern and Aerogram (IIT-Delhi Startup) as a Data Engineer Intern. I love coding and solving problems. My primary focus is on Data Engineering, Big Data Analytics, Cloud, and building solution with and related to data. Previously I finished up my B.Tech/B.E in Computer Science and Engineering  in Spring 2020, at Chandigarh University. My goals are to learn as much as possible from my experiences and interactions with others, and leave a positive impact on the world. I also love to write articles, blogs and to interact with people through my Podcast called Life, Tech and Beyond. Also, I like to help to build professional Resumes and SOPs for others. When I'm not working/programming I love to play chess and am also a keen camp fire level guitarist and an avid movie lover.
+
+  Core Skills: <mark>C++</mark> <mark>Python</mark> <mark>PostgreSQL</mark> <mark>SQL</mark> <mark>Microsoft Azure</mark> <mark>JAVA</mark> <mark>Data Visualization</mark> <mark>Big Data</mark> <mark>Data Warehousing</mark> <mark>Airflow</mark> <mark>Machine Learning</mark> <mark>ETL</mark> <mark>Cloud</mark> <mark>Data Analytics</mark> <mark>Excel</mark> <mark>Android</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>GIT</mark> <mark>Flask</mark> <mark>MongoDB</mark> <mark>Power BI</mark>
+ 
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in Data Engineering and Machine Learning, some of my other interests and hobbies are:
+   - <mark>Playing Chess</mark> <a> https://www.chess.com/member/adityakaushal98 </a> Send me an invite to play chess.
+   - <mark>Keen interest in Music and a Camp Fire Level Guitarist</mark> (Favourite Band: Nirvana)
+   - <mark>Blogging and writing articles</mark> <a> https://adityakaushal-59705.medium.com/ </a>
+   - <mark>Podcaster</mark> <a> https://open.spotify.com/show/0Xx470x2hCxDxTuEjlNhYH?si=D1gdpa-1RRqFrnEiizMJSw </a>
+   - Track and Field sports (Running and Athletics)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+darkmode: false

@@ -1,0 +1,56 @@
+- layout: top-middle
+  name: Data Integration and ETL (Microsoft Azure, ETL, MS Server SQL, Databases)
+  link: github.com
+  github: adityakaushal.github.io
+  quote: >
+    Developed an end-to-end Data Warehousing and ETL Solution for Adventure Works 2019 Database.
+  description: |
+    Accumulated and collected desired data from Data warehouses containing 50+ tables. Designed an ETL Pipeline for data transformation and modeling using Azure Data Factory. Utilized the Data lake Storage for staging and processing data. Also, handled many task such as joining, filtering, selecting, deriving columns and tables for extracting desired data from Adventure Works2019 Data warehouse using components like Azure Data Factory pipelines, data flows, copy data activities, and control flows. Tech: Azure SQL DB, Azure SQL Server, Azure Data Lake Gen 2 Storage, Azure Data Factory.(Aug ’20)
+    
+    
+    
+- layout: top-middle
+  name: AirSol (Web Development, Time Series, Forecasting)
+  link: https://github.com/adityakaushal/PM-2.5-Predictor
+  github: https://github.com/adityakaushal/PM-2.5-Predictor
+  quote: >
+    Developed an end-to-end solution for Time Series Forecasting the PM 2.5 values in the vcinity of IIT Delhi Campus using IoT, Python, Google Cloud, ML Alogs, and Python Web Framework (Flask).
+  description: |
+    Built a Web Dashboard using time Series modeling to predict local mapped Particulate Matter 2.5 in the vicinity of IIT Delhi Campus using various forecasting algorithms like S-ARI-MA and Prophet. Tech: Python, Google Cloud, Google Firestore, Flask, HTML, CSS, Pygal, Pandas, NumPy, JS. (Mar’20)
+
+
+
+- layout: top-middle
+  name: Face2Gene (Desktop Application, Computer Vision, Python)
+  link: https://github.com/adityakaushal/Face-Detection-and-Recognition-
+  github: https://github.com/adityakaushal/Face-Detection-and-Recognition-
+  quote: >
+    Built a facial recognition system using Python and various Machine Learning Algorithms like Scalar Vector Machines, Principal Component Analysis, and Cross Validation.
+  description: |
+    Built a facial recognition app to recognize the user through facial features and displayed the user name on the identified Image. Utilised Support Vectors Machine, Principal Component Analysis, and K-Fold Cross Validation. Tech: Python, Open CV (May‘18)
+
+
+
+
+
+- layout: top-middle
+  name: Reporting Solution (Power BI, Databases)
+  link: https://github.com/adityakaushal/PM-2.5-Predictor
+  github: https://github.com/adityakaushal/PM-2.5-Predictor
+  quote: >
+    Designed an end-to-end Analytics solution for analysing the Point of Sales Data of Adventure Works Data.
+  description: |
+    Analysed and mapped various tables from the Adventure Works 2019 Data warehouse to carry out visualization of Fact-Tables. Utilized Dimension Table and Fact Table to collect and model data to extract the desired result. (Aug ’20)
+
+
+
+
+- layout: top-middle
+  name: Loan Prediction (Python, Data Analytics)
+  link: https://github.com/adityakaushal/Loan_Approval_prediction
+  github: https://github.com/adityakaushal/Loan_Approval_prediction
+  quote: >
+    Analysed and did some EDA (Exploratory Data Analysis for the Loan Prediction Dataset from Kaggle). Utilised the Logistic Regression, XGBoost, Trees, and Random Forest for predicting Loan approval.
+  description: |
+    Processed Loan Dataset to automate loan eligibility process. Analysed various loan granting factors like ‘Credit Score’, ‘Dependencies’, ‘Education’, ‘Gender’, ‘Income’. Utilised various Python libraries like Sea born, pandas, Numpy and matplotlib to analyse various factors using numerous visualization to predict the loan eligibility. Tech: Python, SciPy (Mar’20)
+
