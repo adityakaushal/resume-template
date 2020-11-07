@@ -41,10 +41,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Data Engineering and Machine Learning, some of my other interests and hobbies are:
-   - <mark>Playing Chess</mark> <a> https://www.chess.com/member/adityakaushal98 </a> Send me an invite to play chess.
+   - <mark>Playing Chess</mark> <a href = "https://www.chess.com/member/adityakaushal98">Send me an invite to play chess.</a> 
    - <mark>Keen interest in Music and a Camp Fire Level Guitarist</mark> (Favourite Band: Nirvana)
-   - <mark>Blogging and writing articles</mark> <a> https://adityakaushal-59705.medium.com/ </a>
-   - <mark>Podcaster</mark> <a> https://open.spotify.com/show/0Xx470x2hCxDxTuEjlNhYH?si=D1gdpa-1RRqFrnEiizMJSw </a>
+   - <mark>Blogging and writing articles</mark> <a href = "https://adityakaushal-59705.medium.com/">See my Articles on Medium</a>
+   - <mark>Podcaster</mark> <a href="https://open.spotify.com/show/0Xx470x2hCxDxTuEjlNhYH?si=D1gdpa-1RRqFrnEiizMJSw">Have a look at my podcasts with people</a>
    - Track and Field sports (Running and Athletics)
 
 # Footer
