@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Data Integration and ETL (Microsoft Azure, ETL, MS Server SQL, Databases)
-  link: github.com
-  github: adityakaushal.github.io
+  link: https://github.com/adityakaushal/Data-Integration-and-ETL
+  github: https://github.com/adityakaushal/Data-Integration-and-ETL
   quote: >
     Developed an end-to-end Data Warehousing and ETL Solution for Adventure Works 2019 Database.
   description: |
@@ -35,8 +35,8 @@
 
 - layout: top-middle
   name: Reporting Solution (Power BI, Databases)
-  link: https://github.com/adityakaushal/PM-2.5-Predictor
-  github: https://github.com/adityakaushal/PM-2.5-Predictor
+  link: https://github.com/adityakaushal/Reporting-Solution/blob/master/Reporting-Solution.pdf
+  github: https://github.com/adityakaushal/Reporting-Solution/blob/master/Reporting-Solution.pdf
   quote: >
     Designed an end-to-end Analytics solution for analysing the Point of Sales Data of Adventure Works Data.
   description: |
